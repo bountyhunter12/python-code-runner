@@ -21,6 +21,9 @@ A secure, full-stack online Python code execution platform built with React and 
 └─────────────┘     └─────────────┘     └─────────────────┘
 ```
 
+<img width="1909" height="837" alt="image" src="https://github.com/user-attachments/assets/937a29cf-bd22-4a86-98aa-129e2eb044c6" />
+
+
 ## Prerequisites
 
 - **Docker** (latest version)
